@@ -3,12 +3,22 @@
   "version": "0.1.0",
   "description": "Simple ID Gen",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/destinio/id.git"
   },
   "keywords": [
     "id"
   ],
   "author": "Destin Lee",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/destinio/id/issues"
+  },
+  "homepage": "https://github.com/destinio/id#readme"
 }
