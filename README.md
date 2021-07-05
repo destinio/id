@@ -14,7 +14,7 @@ import id from '@destinio/id'
 array.map((item) => {
   const keyId = id() // 1625502956169-14374
   return (
-    <div className="list-item" key={id()}>
+    <div className="list-item" key={keyId}>
       I'm a list item that need a unique key
     </div>
   )
